@@ -1,3 +1,5 @@
 Lion
 Giraffe
 Elephant
+Zebra
+Reindeer
